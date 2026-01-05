@@ -5,3 +5,6 @@ console.log(part);
 //output ashba
 //-------------------
 //sha
+
+
+
